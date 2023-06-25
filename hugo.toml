@@ -1,5 +1,5 @@
 title = "Portfolio"
-baseURL = "https://github.com/vishrut/portfolio"
+baseURL = "/"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "resources/"
