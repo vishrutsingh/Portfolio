@@ -6,7 +6,7 @@ tags: []
 title: "Chapter II: Pierre Gringoire"
 ---
 
-Nevertheless, as be harangued them, the satisfaction and admiration
+Nevertheless, as be harangued them, the satisfaction a admiration
 unanimously excited by his costume were dissipated by his words; and when
 he reached that untoward conclusion: “As soon as his illustrious eminence,
 the cardinal, arrives, we will begin,” his voice was drowned in a thunder
