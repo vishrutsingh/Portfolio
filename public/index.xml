@@ -1,29 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vishrut Singh on Vishrut</title>
-    <link>https://github.com/vishrut/portfolio/</link>
-    <description>Recent content in Vishrut Singh on Vishrut</description>
+    <title>Vishrut Singh on Portfolio</title>
+    <link>https://hba.sid.one/</link>
+    <description>Recent content in Vishrut Singh on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 10 Apr 2017 11:00:59 -0400</lastBuildDate><atom:link href="https://github.com/vishrut/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hba.sid.one/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Chapter II: Pierre Gringoire</title>
-      <link>https://github.com/vishrut/portfolio/blog/newpost/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      <title>Welcome to My Page</title>
+      <link>https://hba.sid.one/posts/post-01/first-page/</link>
+      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/vishrut/portfolio/blog/newpost/</guid>
-      <description>Nevertheless, as be harangued them, the satisfaction a admiration unanimously excited by his costume were dissipated by his words; and when he reached that untoward conclusion: “As soon as his illustrious eminence, the cardinal, arrives, we will begin,” his voice was drowned in a thunder of hooting.
-“Begin instantly! The mystery! the mystery immediately!” shrieked the people. And above all the voices, that of Johannes de Molendino was audible, piercing the uproar like the fife’s derisive serenade: “Commence instantly!</description>
+      <guid>https://hba.sid.one/posts/post-01/first-page/</guid>
+      <description>asdasd</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://github.com/vishrut/portfolio/about/</link>
+      <link>https://hba.sid.one/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/vishrut/portfolio/about/</guid>
-      <description>Illustration from Victor Hugo et son temps (1881) The Hunchback of Notre-Dame (French: Notre-Dame de Paris) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England.</description>
+      <guid>https://hba.sid.one/about/</guid>
+      <description>The Hunchback of Notre-Dame_ (French: Notre-Dame de Paris) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.</description>
     </item>
     
   </channel>

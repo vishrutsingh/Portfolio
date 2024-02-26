@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "a4a58985c429de33",
+    "type": "split",
+    "children": [
+      {
+        "id": "45bc2246b61456b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ae7924b312864e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/post 01/First Page.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "997db0ee72b26177",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c8400dca51eb37a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "152c7954c388528e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3a4ac3ecc99cabc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "349d334f021f8cac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6eea7ce2435a8102",
+    "type": "split",
+    "children": [
+      {
+        "id": "95fa9b94186f73bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f80456dde90fa21",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/posts/post 01/First Page.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6cb0acd76c3d8267",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/posts/post 01/First Page.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "959a36d1a4f440ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2ffe7ec9c9907a6a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/posts/post 01/First Page.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7ae7924b312864e5",
+  "lastOpenFiles": [
+    "content/about/index.md",
+    "assets/vishrutsingh.jpeg",
+    "public/vishrutsingh_hu457a05d6ad33ac04e11493046dee7b43_12788_100x100_fill_q75_h2_box_smart1.webp",
+    "content/_index.md",
+    "content/posts/Bounce.md",
+    "content/posts/_index.md",
+    "content/posts/post 01/First Page.md",
+    "public/posts/post-01/first-page/index.html",
+    "public/posts/page/1/index.html",
+    "public/posts/post-01/first-page",
+    "public/posts/page/1",
+    "public/posts/post-01",
+    "public/posts/page",
+    "public/posts/index.xml",
+    "public/posts/index.html",
+    "public/posts",
+    "public/js/theme.min.8961c317c5b88b953fe27525839672c9343f1058ab044696ca225656c8ba2ab0.js",
+    "public/icons/safari-pinned-tab.svg",
+    "public/icons/mstile-70x70.png",
+    "public/icons/mstile-310x310.png",
+    "public/icons/mstile-310x150.png",
+    "public/icons/mstile-150x150.png",
+    "public/icons/favicon.svg",
+    "public/icons/favicon-32x32.png",
+    "public/icons/favicon-16x16.png",
+    "README.md"
+  ]
+}
