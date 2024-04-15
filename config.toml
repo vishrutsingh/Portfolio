@@ -1,0 +1,227 @@
+# Page settings
+
+baseURL = "http://vishrut.sg/cv"
+googleAnalytics = "UA-XXXXXXX-Y"
+languageCode = "en"
+publishDir = "public/cv"
+theme = "hugo-devresume-theme"
+title = "cv"
+
+
+[params]
+  author = "CowboySmall"
+  description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
+
+
+  primaryColor = "#7ABAFF"
+  textPrimaryColor = "#292929"
+
+
+[params.profile]
+  avatar = "vishrutsingh.png"
+  enable = true
+  name = "Vishurt Singh"
+  tagline = "Blockchain Developer"
+
+
+[params.contact]
+  enable = true
+  location = "India"
+
+[[params.contact.list]]
+  icon = "fas fa-phone-square"
+  text = "+91 7357337667"
+  url = "tel:#"
+[[params.contact.list]]
+  icon = "fas fa-envelope-square"
+  text = "bisrut.singh@gmail.com"
+  url = "mailto:#"
+[[params.contact.list]]
+  icon = "fas fa-globe"
+  text = "https://vishrutsingh.github.io/"
+  url = "#"
+
+
+[params.skills]
+  enable = true
+
+[[params.skills.list]]
+  title = "Technical"
+[[params.skills.list.items]]
+  details = "Rust/Go"
+[[params.skills.list.items]]
+  details = "JavaScript/Typescript"
+[[params.skills.list.items]]
+  details = "Node.js/Nix"
+[[params.skills.list.items]]
+  details = "MongoDB/MySQL"
+[[params.skills.list.items]]
+  details = "Object-oriented design"
+[[params.skills.list.items]]
+  details = "Blockchain/Cosmos-sdk/Cosmwasm"
+
+
+[[params.skills.list]]
+  title = "Professional"
+[[params.skills.list.items]]
+  details = "Effective communication"
+[[params.skills.list.items]]
+  details = "Team player"
+[[params.skills.list.items]]
+  details = "Strong problem solver"
+[[params.skills.list.items]]
+  details = "Good time management"
+
+
+[params.education]
+  enable = true
+
+[[params.education.list]]
+  dates = "2016 - 2021"
+  degree = "BEng in Computer Science"
+  university = "University of Glasgow"
+
+
+[params.awards]
+  enable = false
+
+[[params.awards.list]]
+  body = "UiPath - Advanced RPA Trainee Award"
+  date = "2019"
+
+
+[params.languages]
+  enable = true
+
+[[params.languages.list]]
+  level = "Native"
+  name = "English"
+[[params.languages.list]]
+  level = "Native"
+  name = "Hindi"
+
+
+[params.interests]
+  enable = true
+
+[[params.interests.list]]
+  name = "Climbing"
+[[params.interests.list]]
+  name = "Running"
+[[params.interests.list]]
+  name = "Music Production"
+[[params.interests.list]]
+  name = "Travelling"
+
+
+[params.summary]
+  enable = true
+  #text = "Summarise your career here. Donec quam felis, ultricies nec, pellentesque eu. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.  Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+  text = "I'm Vishrut, an Indian Software Engineer with 1+ years of experience developing Blockchains. I am a dedicated, hardworking, ambitious person that gets things done, both on my own initiative and within a team. I enjoy challenges and I am not afraid of getting my hands dirty. Because knowledge sharing matters to me, I enjoy spending non negligible time writing blogs and tutorials that I share with new comers to the Blockchain community."
+
+[params.experience]
+  enable = true
+
+[[params.experience.list]]
+  company = "Persistence One"
+  dates = "December 2021 - October 2022"
+  details = "As Blockchain Developer my responsibilities consisted of developing & testing smart contracts on the chain. This entailed into developing new workflows to integrate APIs and packages which would aid our chain become a smarth contract enabled chain in the ecosystem. Other resposibilities included integration with other chains and Airdrops to stakers in our chain."
+  title = "Blockchain Developer"
+[[params.experience.list.items]]
+  details = "Developed on-chain contract and developed workflow forour chain for Smart Contract usage." 
+[[params.experience.list.items]]
+  details = "Supervised a team effort to integrate cross chain Token trasnfer for our token from Etherium to Terra & Anchor chain through our native chain on cosmos ecosystem."
+[[params.experience.list.items]]
+  details = "Worked with a small team in the cosmos ecosystem, developing new tech and tutorials for users of CosmJS."
+[[params.experience.list.items]]
+  details = "Setup Kubernetes for testnet and helped with testing multi-chain smart contracts."
+[[params.experience.list.items]]
+  details = "Integrated Telescope into PersistenceJS."
+[[params.experience.list.items]]
+  details = "Conducted monthly Airdrops to stakers in our ecosystem." 
+
+[[params.experience.list]]
+  company = "Vilo Sky"
+  dates = "October 2020 - March 2021"
+  details = "Being a student in my final year, I worked as a scrum master for a team of students in their 2nd year. My responsibilities were to coah the team to follow best agile techniques tailored for their relationship with the client, communicate with client to get a clear idea of what is needed and keep a weekly diary to maintain the progress of the team and additional notes to keep individual contrebutions."
+  title = "Scrum Master"
+[[params.experience.list.items]]
+  details = "Coached a team of 5 students to develop a website, which provides a platform for coaching and consultancy services for women."
+[[params.experience.list.items]]
+  details = "Helped the team understand agile practices and tailored a software development process that works for the client & team."
+
+[[params.experience.list]]
+  company = "University of Glasgow"
+  dates = "September 2020 - March 2021"
+  details = "Coordinated 2 teams of 4 - 5 students to present and develop their website idea under the web app development course. Demonstrated a lab group of 10-11 students in an online environment and helped them understand concepts about data structures, algorithms and web app development."
+  title = "Lab Demonstrator"
+
+[[params.experience.list]]
+  company = "Access Health Digital"
+  dates = "April 2020 - August 2020"
+  details = "Interned as software developer in a non-profit software development company, focusing on digital health software services based on microservice architecture using Spring Boot. These microservices would then be used by medical systems in the country to record and maintain computer readable medical nomenclature such as medicen, diagnosis & treatments. I was also responsible for outreach to medical institutions asking to integrate systematic nomenclature in the education system."
+  title = "Software Intern"
+[[params.experience.list.items]]
+  details = "Responsible for Cloud Gateway Server & Spring development and maintenance."
+[[params.experience.list.items]]
+  details = "Conducted additional research in integrating micro service architecture with HAPI FHIR namespace server."
+[[params.experience.list.items]]
+  details = "Participated in medical university outreach and collaboration opportunities."
+
+[[params.experience.list]]
+  company = "Cevitr Inc."
+  dates = "June 2019 - August 2019"
+  details = "Interned as an automated process developer,focusing on RPA(Robotic Process Automation) and maintaining the digital automated work bot. RPA agent would perform workflows that a person would take a lot of time to. The main client groups were small companies keeping track of customer records in their databases. This agent would help the companies cut down their costs upto 30% for maintainence of these records."
+  title = "Software Engineering Intern"
+[[params.experience.list.items]]
+  details = "Designing automation processes based on computer vision,that increase the efficiency of various tasks by many folds."
+
+[[params.experience.list]]
+  company = "Craft prospect"
+  dates = "September 2018 - March 2019"
+  details = "Working in a team of 4 students,to develop an arcade machine for a Machine learning based space game. The company would end up using this machine to demonstrate their space capabilities to clients in confrences and various meetings."
+  title = "University of Glasgow Industrial Work"
+[[params.experience.list.items]]
+  details = "Demonstrated the project to clients which provided a better understanding about the use of ML in satellite imaging." 
+[[params.experience.list.items]]
+  details = "Designed and made the Arcade machine using 3D Printers" 
+[[params.experience.list.items]]
+  details = "Collected cloud coverage satalite data to train a model using OpenCV." 
+
+
+[params.projects]
+  enable = false 
+
+[[params.projects.list]]
+  meta = "Open Source"
+  tagline = "You can use this section for your side projects. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+  title = "Project Lorem Ipsum"
+
+[params.information]
+  enable = true
+
+[[params.information.list]]
+  title = "Certification"
+[[params.information.list.items]]
+  details = "2019 · UIPath - Advanced RPA Certificate"
+
+[[params.information.list]]
+  details = "Climbing, Snowboarding, Photography, Travelling"
+  title = "Interests"
+
+
+[params.social]
+  enable = true
+
+[[params.social.list]]
+  icon = "fab fa-github-square"
+  title = "Vishrut Singh"
+  url = "//github.com/vishrutsingh"
+[[params.social.list]]
+  icon = "fab fa-linkedin"
+  title = "Vishrut Singh"
+  url = "//linkedin.com/in/bisrut"
+[[params.social.list]]
+  icon = "fab fa-twitter-square"
+  title = "@bisruut"
+  url = "//twitter.com/bisruut"
