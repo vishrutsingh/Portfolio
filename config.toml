@@ -3,7 +3,6 @@
 baseURL = "http://vishrut.sg/cv"
 googleAnalytics = "UA-XXXXXXX-Y"
 languageCode = "en"
-publishDir = "public/cv"
 theme = "hugo-devresume-theme"
 title = "cv"
 
