@@ -5,12 +5,10 @@ googleAnalytics = "UA-XXXXXXX-Y"
 languageCode = "en"
 theme = "hugo-devresume-theme"
 title = "cv"
-staticDir = "static/" 
 
 [params]
   author = "CowboySmall"
   description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
-
 
   primaryColor = "#7ABAFF"
   textPrimaryColor = "#292929"
