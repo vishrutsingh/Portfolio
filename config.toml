@@ -121,7 +121,7 @@ title = "cv"
 
 [[params.experience.list]]
   title = "Freelance Blockchains Developer"
-  company = "Cosmos Ecosystem"
+  company = "Blockchains"
   dates = "October 2023 - February 2024"
   details = "I worked as a freelance developer for various blockchains, developing workflows and smart contracts. Responsible for deploying and testing contracts on the chain and keeping track of documentation for the same. Worked with teams in the early ecosystme to develop a smart contract based on Etherium contracts and port a similar logic to cosmos ecosystem."
 [[params.experience.list.items]]
