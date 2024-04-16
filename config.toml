@@ -120,6 +120,18 @@ title = "cv"
   enable = true
 
 [[params.experience.list]]
+  title = "Freelance Blockchains Developer"
+  company = "Cosmos Ecosystem"
+  dates = "October 2023 - February 2024"
+  details = "I worked as a freelance developer for various blockchains, developing workflows and smart contracts. Responsible for deploying and testing contracts on the chain and keeping track of documentation for the same. Worked with teams in the early ecosystme to develop a smart contract based on Etherium contracts and port a similar logic to cosmos ecosystem."
+[[params.experience.list.items]]
+  details = "Porting Eth contracts to Cosmos ecosystem" 
+[[params.experience.list.items]]
+  details = "Designing workflows to deploy smart contracts on various blockchains." 
+[[params.experience.list.items]]
+  details = "Documenting & writing articles about the latest tech in the ecosystem." 
+
+[[params.experience.list]]
   company = "Persistence One"
   dates = "December 2021 - October 2022"
   details = "As Blockchain Developer my responsibilities consisted of developing & testing smart contracts on the chain. This entailed into developing new workflows to integrate APIs and packages which would aid our chain become a smarth contract enabled chain in the ecosystem. Other resposibilities included integration with other chains and Airdrops to stakers in our chain."
@@ -221,4 +233,4 @@ title = "cv"
 [[params.social.list]]
   icon = "fab fa-twitter-square"
   title = "@bisruut"
-  url = "//twitter.com/bisruut"
+  ur = "//twitter.com/bisruut"
