@@ -47,15 +47,13 @@ title = "cv"
 [[params.skills.list.items]]
   details = "Rust/Go"
 [[params.skills.list.items]]
-  details = "JavaScript/Typescript"
+  details = "Nix/Hugo"
 [[params.skills.list.items]]
-  details = "Node.js/Nix"
+  details = "JavaScript/Typescript"
 [[params.skills.list.items]]
   details = "MongoDB/MySQL"
 [[params.skills.list.items]]
-  details = "Object-oriented design"
-[[params.skills.list.items]]
-  details = "Blockchain/Cosmos-sdk/Cosmwasm"
+  details = "Cosmos-sdk/Cosmwasm/Eth-VM"
 
 
 [[params.skills.list]]
@@ -233,4 +231,4 @@ title = "cv"
 [[params.social.list]]
   icon = "fab fa-twitter-square"
   title = "@bisruut"
-  ur = "//twitter.com/bisruut"
+  url = "//twitter.com/bisruut"
