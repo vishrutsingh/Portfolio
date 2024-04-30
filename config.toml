@@ -17,7 +17,7 @@ textPrimaryColor = "#292929"
 [params.profile]
 avatar = "vishrutsingh.png"
 enable = true
-name = "Vishurt Singh"
+name = "Vishrut Singh"
 tagline = "Blockchain Developer"
 
 
@@ -121,9 +121,9 @@ enable = true
 title = "Freelance Blockchains Developer"
 company = "Blockchains"
 dates = "October 2023 - February 2024"
-details = "I worked as a freelance developer for various blockchains, developing workflows and smart contracts. Responsible for deploying and testing contracts on the chain and keeping track of documentation for the same. Worked with teams in the early ecosystme to develop a smart contract based on Etherium contracts and port a similar logic to cosmos ecosystem."
+details = "I worked as a freelance developer for various blockchains, developing workflows and smart contracts. Responsible for deploying and testing contracts on the chain and keeping track of documentation for the same. Worked with teams in the early ecosystem to develop a smart contract based on Ethereum contracts and port a similar logic to cosmos ecosystem."
 [[params.experience.list.items]]
-details = "Porting Eth contracts to Cosmos ecosystem, namely the ENS and Abstrat Accounts." 
+details = "Porting Eth contracts to Cosmos ecosystem, namely the ENS based contracts and Abstrat Accounts." 
 [[params.experience.list.items]]
 details = "Testing deployments on EVM(Eth-VM) to develop a similar workflow on cosmos ecosystem. Designing workflows to deploy smart contracts on various native chains." 
 [[params.experience.list.items]]
