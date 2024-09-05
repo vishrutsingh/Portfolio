@@ -34,10 +34,12 @@ icon = "fas fa-envelope-square"
 text = "bisrut.singh@gmail.com"
 url = "mailto:#"
 [[params.contact.list]]
-icon = "fas fa-globe"
-text = "https://vishrutsingh.github.io/"
-url = "#"
-
+icon = "fab fa-github-square"
+text = "Vishrut Singh"
+url = "//github.com/vishrutsingh"
+[[params.contact.list]]
+icon = "fab fa-linkedin"
+text = "Vishrut Singh"
 
 [params.skills]
 enable = true
@@ -112,7 +114,7 @@ name = "Travelling"
 [params.summary]
 enable = true
 #text = "Summarise your career here. Donec quam felis, ultricies nec, pellentesque eu. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.  Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
-text = "I'm Vishrut, an Indian Software Engineer with 1+ years of experience developing Blockchains. I am a dedicated, hardworking, ambitious person that gets things done, both on my own initiative and within a team. I enjoy challenges and I am not afraid of getting my hands dirty. Because knowledge sharing matters to me, I enjoy spending non negligible time writing blogs and tutorials that I share with new comers to the Blockchain community."
+text = "I'm Vishrut, an Indian Software Engineer with 1+ years of experience developing Blockchains. I am a dedicated, hardworking, ambitious person who gets things done, both on my initiative and within a team. I enjoy challenges and I am not afraid of getting my hands dirty. Because knowledge sharing matters to me, I enjoy spending non-negligible time writing blogs and tutorials that. I share with newcomers to the Blockchain community."
 
 [params.experience]
 enable = true
